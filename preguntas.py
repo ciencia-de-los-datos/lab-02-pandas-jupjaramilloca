@@ -160,6 +160,8 @@ def pregunta_08():
 
 
 
+
+
 def pregunta_09():
     """
     Agregue el año como una columna al archivo `tbl0.tsv`.
